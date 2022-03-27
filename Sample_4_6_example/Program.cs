@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-namespace Sample_4_3_example
+namespace Sample_4_6_example
 {
     class Program
     {

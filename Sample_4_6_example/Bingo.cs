@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Sample_4_3_example
+namespace Sample_4_6_example
 {
 	public class Bingo
 	{
